@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SherifBakr1
-- 👀 I’m interested in software/algorithm development 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java and Matlab projects
+- 👀 I’m interested in AI, ML, and robotics.
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me: Linkedin account: Sherif Bakr 
 
 <!---
