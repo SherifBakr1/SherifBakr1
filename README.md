@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SherifBakr1
 - 👀 I’m interested in AI, ML, and robotics.
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ML projects.
+- I’m looking to collaborate on ML projects.
 - 📫 How to reach me: Linkedin account: Sherif Bakr 
 
 <!---
